@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/auo8BfpL)
 # Task on GitHub Topic
 
-1. Add user `softservedata` to this repository.
+1. Add user `softservedata` to this repository. 
 
 2. Create branch `develop` as default branch.
 
@@ -17,7 +17,7 @@
 ## Issue ticket number and link
 
 ## Checklist before requesting a review
-- [ ] I have performed a self-review of my code
+- [x] I have performed a self-review of my code
 - [ ] If it is a core feature, I have added thorough tests
 - [ ] Do we need to implement analytics?
 - [ ] Will this be part of a product update? If yes, please write one phrase about this update
